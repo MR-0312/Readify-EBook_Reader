@@ -40,7 +40,7 @@ final List<Book> books = [
   Book(
     title: 'The Secret of the Nagas',
     author: 'Amish Tripathi',
-    coverImage: 'assets/book_cover_5.jpeg',
+    coverImage: 'assets/book_cover_2.jpeg',
     description:
         'The Secret of the Nagas is the second book in the Shiva Trilogy by Amish Tripathi. The novel picks up where the first book, The Immortals of Meluha, left off, with Shiva, the prophesied Neelkanth, continuing his quest to confront the mysterious and dangerous Naga people who have been terrorizing his land.',
     published: '2011',
